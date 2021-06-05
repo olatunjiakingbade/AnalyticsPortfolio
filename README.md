@@ -37,7 +37,7 @@ I finally generated details about companies in this sectore and these are the co
 
 * This is my cover page
   ![Cover Page](/Images/01CoverPageCali.png)
-*I explored the spread of Data analyst jobs acrosss the US
+* I explored the spread of Data analyst jobs acrosss the US
 
   ![Job Spread](/Images/02JobSpreadSummary.png)
 
